@@ -89,7 +89,7 @@ const AssetPDF = ({ asset }) => (
     <Document>
         <Page size="A4" style={styles.page}>
             <View style={styles.header}>
-                
+                <Text style={styles.subHeading}>Chromaesthetics Inc</Text>
                 <Text style={styles.title}>IT Asset Clearance Form</Text>
             </View>
 
