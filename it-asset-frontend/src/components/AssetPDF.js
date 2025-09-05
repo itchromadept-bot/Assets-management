@@ -89,7 +89,7 @@ const AssetPDF = ({ asset }) => (
     <Document>
         <Page size="A4" style={styles.page}>
             <View style={styles.header}>
-                <Image style={styles.logo} src="https://cdn.shopify.com/s/files/1/0742/8069/8157/files/Chromaesthetics_Inc._Logo_04022024_Horizontal_Lockup_4.png?v=1756965756" />
+                
                 <Text style={styles.title}>IT Asset Clearance Form</Text>
             </View>
 
